@@ -14,12 +14,12 @@
 
 ### Day 1: July 04 '24, Thur
 
-**Today's Progress**: 
+**Today's Progress**: Completed till 45% of course. Learnt about rel="noopener noreferrer" and the security implications it had from [owasp](https://owasp.org/www-community/attacks/Reverse_Tabnabbing) website. Coded a bit today with plain html only -> lists, links and images.
 
-**Thoughts** 
+**Thoughts:** Learnt a lot more about html and its tags by making the recipe website.
 
 **Link(s) to work**
-1. 
-2. 
+1. [live preview of recipe website](https://web3gurung.github.io/odin-recipes/)
+2. [repo of recipe website](https://github.com/web3Gurung/odin-recipes)
 
 ----
