@@ -23,3 +23,15 @@
 2. [repo of recipe website](https://github.com/web3Gurung/odin-recipes)
 
 ----
+
+### Day 2: July 05 '24, Fri
+
+**Today's Progress**: Did 2 CSS exercises on css-methods and class-id-selector.
+
+**Thoughts:** Was fun and a lil challenging on replicating the instructions to css.
+
+**Link(s) to work**
+1. [css method solution](https://github.com/TheOdinProject/css-exercises/commit/ffe2e84f431f2b7e7ee13431876d7651e9b264c0)
+2. [class-id-selector solution](https://github.com/TheOdinProject/css-exercises/commit/06c5d32623bb690ec5964da37aabb9ca51d9afa4)
+
+----
