@@ -48,3 +48,14 @@
 3. Cascade fix solution - [here](https://github.com/web3Gurung/css-exercises/commit/796ef0361e7a3ec291301f64cd0a97be333de8ea)
 
 ----
+
+### Day 4: July 08 '24, Mon
+
+**Today's Progress**: Completed 50% of the foundation course. Learnt about Inspect and what debug tools are there.
+
+**Thoughts:** while i learnt theoretically about how to debug html+css, i'm yet to use it irl while coding.
+
+**Link(s) to work**
+1. No links as such.
+
+----
