@@ -35,3 +35,16 @@
 2. [class-id-selector solution](https://github.com/TheOdinProject/css-exercises/commit/06c5d32623bb690ec5964da37aabb9ca51d9afa4)
 
 ----
+
+### Day 3: July 07 '24, Sun (1 day break)
+
+**Today's Progress**: Completed 47% of the foundation course. Did 3 CSS exercises comprising of chaining selectors and descendent combinator.
+
+**Thoughts:** Was hard to understand the question due to certain terms used. Eventually understood various cascading rules and combinations allowed.
+
+**Link(s) to work**
+1. Chaining Selectors solution - [here](https://github.com/web3Gurung/css-exercises/commit/2768b9467de6f2474fcadb0f3bee70a95d0aaea9)
+2. Descendant combinator solution - [here](https://github.com/web3Gurung/css-exercises/commit/a41c0888bbc0e3343dc5324667e05975002ca26c)
+3. Cascade fix solution - [here](https://github.com/web3Gurung/css-exercises/commit/796ef0361e7a3ec291301f64cd0a97be333de8ea)
+
+----
