@@ -59,3 +59,12 @@
 1. No links as such.
 
 ----
+
+### Day 5: August 06 '24, Tue
+
+**Today's Progress**: got back on learning (again lol). revised all concepts alongside doing the css exercises. Also completed the scrimba challenges: [this](https://v2.scrimba.com/s04sug7) and [this](https://v1.scrimba.com/scrim/c9gwmnAR).
+
+**Thoughts:** getting back to becoming consistent is challenging, but imma try it
+
+**Link(s) to work**
+1. No links as such.
