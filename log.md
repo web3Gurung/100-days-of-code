@@ -68,3 +68,15 @@
 
 **Link(s) to work**
 1. No links as such.
+
+-----
+
+### Day 6: August 19 '24, Mon
+
+**Today's Progress**: completed margin and padding both exercises. started learning about flex.
+
+**Thoughts:** not being consistent costed me to forget centering a text box and block elements. need to do better. bashed my head with flex-grow & flex-shrink.
+
+**Link(s) to work**
+1. margin and padding 1: [here](https://github.com/web3Gurung/css-exercises/tree/main/margin-and-padding/01-margin-and-padding-1)
+2. margin and padding 2: [here](https://github.com/web3Gurung/css-exercises/tree/main/margin-and-padding/02-margin-and-padding-2)
